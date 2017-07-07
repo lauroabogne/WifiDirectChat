@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.blogspot.justsimpleinfo.wifidirectchat.MainActivity">
+    <item
+        android:id="@+id/show_available_device"
+        android:orderInCategory="100"
+        android:title="@string/show_available_device"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/disconnect"
+        android:orderInCategory="100"
+        android:title="@string/disconnect"
+        app:showAsAction="never" />
+
+</menu>

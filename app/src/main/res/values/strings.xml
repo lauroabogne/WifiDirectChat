@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiDirectChat</string>
+    <string name="show_available_device">Show Available Device</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
